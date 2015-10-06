@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+h1 {
+	size: 16;
+	widht: 100px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+select {
+	size: 20;
+}
+
+button {
+	cue-after: inherit;
+}
+
+.main{
+	position: relative;
+	padding-left: 25%;
+}
+
+.result{
+	text-align: center;
+}
